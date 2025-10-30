@@ -2791,6 +2791,10 @@
 - name: 김태현
   blog: https://velog.io/@taehyunkim
   rss: https://v2.velog.io/rss/taehyunkim
+- name: 김태현
+  blog: https://velog.io/@x0gus
+  rss: https://v2.velog.io/rss/x0gus
+  github: https://github.com/taehyun00
 - name: 김태호
   blog: https://www.androidhuman.com/
   rss: https://www.androidhuman.com/feed.xml
