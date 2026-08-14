@@ -1425,6 +1425,10 @@
 - name: FEConf Korea
   youtube: https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA
   facebook: https://www.facebook.com/feconf.kr/
+- name: FeedON
+  blog: https://blog.feedonlabs.com/
+  rss: https://blog.feedonlabs.com/feed/
+  home: https://feedonlabs.com/
 - name: Firebase
   facebook: https://www.facebook.com/groups/1650124438643831/
 - name: FunFunStudy
