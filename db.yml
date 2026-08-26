@@ -7750,6 +7750,10 @@
 - name: 이유한
   facebook: https://www.facebook.com/youhan.lee.33
   youtube: https://www.youtube.com/channel/UC--LgKcZVgffjsxudoXg5pQ
+- name: 이윤진
+  blog: https://oborona.zip/
+  rss: https://oborona.zip/rss.xml
+  description: Indie Developer
 - name: 이윤창
   blog: https://daddycat.blogspot.com/
   rss: https://daddycat.blogspot.com/feeds/posts/default
